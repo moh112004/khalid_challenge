@@ -28,8 +28,8 @@ export default function Chat() {
             </div>
 
 
-            <SentMessege/>
-            <RecivedMessege/>
+            {/* <SentMessege/>
+            <RecivedMessege/> */}
             <div className="absolute bottom-5 w-full">
 
             <input type="text" className="border-2 border-white rounded-xl h-10 w-1/2 bg-zinc-600 text-white mr-5">
